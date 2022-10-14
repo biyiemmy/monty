@@ -3,7 +3,7 @@
  * f_stack - prints the top
  * @head: stack head
  * @counter: line_number
- * Return: no return
+ * Return: None
 */
 void f_stack(stack_t **head, unsigned int counter)
 {
