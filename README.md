@@ -166,7 +166,7 @@ The pall opcode
 
 The opcode pall prints all the values on the stack, starting from the top of the stack.
 
-Usage pall
+### Usage pall
 Format: see example
 If the stack is empty, don’t print anything
 julien@ubuntu:~/monty$ cat -e bytecodes/00.m
@@ -181,11 +181,10 @@ julien@ubuntu:~/monty$ ./monty bytecodes/00.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+### GitHub repository: monty
     
-1. pint
+## 1. pint
 mandatory
-Score: 65.0% (Checks completed: 100.0%)
 Implement the pint opcode.
 
 The pint opcode
