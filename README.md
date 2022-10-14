@@ -1,27 +1,17 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 0x19. C - Stacks, Queues - LIFO, FIFO
-0x19. C - Stacks, Queues - LIFO, FIFO
-C
-Group project
-Algorithm
-Data structure
+
+C Group project Algorithm Data structure
+ 
  By: Julien Barbier
  Weight: 2
  Project to be done in teams of 2 people (your team: Emmanuel Adebiyi, Oluwaseyi Idowu)
  Project over - took place from Oct 3, 2022 10:00 PM to Oct 6, 2022 10:00 PM
  An auto review will be launched at the deadline
-In a nutshell…
-Contribution: 100.0%
-Auto QA review: 27.95/43 mandatory & 56.55/87 optional
-Altogether:  107.25%
-Mandatory: 65.0%
-Optional: 65.0%
-Contribution: 100.0%
-Calculation:  100.0% * (65.0% + (65.0% * 65.0%) )  == 107.25%
 
 
 
-Resources
+### Resources
 Read or watch:
 
 Google
@@ -32,7 +22,7 @@ Queue operations
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+### General
 What do LIFO and FIFO mean
 What is a stack, and when to use it
 What is a queue, and when to use it
