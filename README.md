@@ -202,7 +202,7 @@ The pint opcode
 
 The opcode pint prints the value at the top of the stack, followed by a new line.
 
-Usage: pint
+### Usage: pint
 If the stack is empty, print the error message L<line_number>: can't pint, stack empty, followed by a new line, and exit with the status EXIT_FAILURE
 julien@ubuntu:~/monty$ cat bytecodes/06.m 
 push 1
