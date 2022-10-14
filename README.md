@@ -148,9 +148,8 @@ You have to use malloc and free and are not allowed to use any other function fr
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
-0. push, pall
+## 0. push, pall
 mandatory
-Score: 65.0% (Checks completed: 100.0%)
 Implement the push and pall opcodes.
 
 The push opcode
