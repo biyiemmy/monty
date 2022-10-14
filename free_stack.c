@@ -2,6 +2,7 @@
 /**
 * free_stack - frees a doubly linked list
 * @head: head of the stack
+* Return: None
 */
 void free_stack(stack_t *head)
 {
